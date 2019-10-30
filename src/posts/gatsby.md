@@ -6,7 +6,7 @@ date: "2019-10-23"
 I just launched a new bootcamp!
 
 <!-- How to have image, [if image doesn't load or can show] -->
-![Beauty](./yum.jpg)
+<!-- ![Beauty](./yum.jpg) -->
 
 ## Topics Covered
 
