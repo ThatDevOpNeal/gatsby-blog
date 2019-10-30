@@ -1,0 +1,14 @@
+.container {
+  margin: 0 auto;
+  max-width: 750px;
+  padding: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  // allows this container to have enough space, just enough for the footer to be there
+  flex-grow: 1;
+}
